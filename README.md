@@ -3,11 +3,9 @@ Koneksys Data Scientist Coding Excercise 2
 
 Hi Avishek & Axel, I have created a scraper using puppeteer as described in the google doc.
 
-Here is the index.js scarping output:
+Here is the index.js scraping output:
 
-![Output Requested](https://i.imgur.com/eqayU3e.png)
-![Output Received](https://i.imgur.com/BCqD4EV.png)
-
+![Output Requested](https://i.imgur.com/xT9v8WH.jpg)
 
 Though I thought SKU is a better id based identifier so I made a slightly refined json ouput as well:
 
