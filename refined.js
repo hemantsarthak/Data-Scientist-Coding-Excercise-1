@@ -5,7 +5,7 @@ const url = "https://teradek.com/collections/colr/products/anton-bauer-digital-b
 (async () => {  
     const browser = await puppeteer.launch({ headless: true, defaultViewport: null});
     const page = await browser.newPage();
-    await page.goto(url)
+    await page.goto(url, {waitUntil: 'load'});
     
     var Products = await page.evaluate(() => {
         //Array to be passed to json stingify vars
