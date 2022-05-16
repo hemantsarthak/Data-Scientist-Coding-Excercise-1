@@ -13,7 +13,7 @@ Though I thought SKU is a better id based identifier so I made a slightly refine
 ![Output Received](https://i.imgur.com/fYI26Lw.jpg)
 
 
-## You can test the code by:
+## You can run the code by:
 ```
 git clone https://github.com/hemantsarthak/Koneksys-Data-Scientist-Coding-Excercise-2.git 
 ```
