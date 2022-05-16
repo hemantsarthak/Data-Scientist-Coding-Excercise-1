@@ -1,0 +1,32 @@
+{
+ "Products": [
+  {
+   "SKU": "14-0622",
+   "WattHr": "99 Wh",
+   "Title": "Anton Bauer Digital Battery (Dionic XT 150/Dionic XT 90)",
+   "Mount": "Gold-Mount",
+   "Price": "$580.00"
+  },
+  {
+   "SKU": "14-0623",
+   "WattHr": "99 Wh",
+   "Title": "Anton Bauer Digital Battery (Dionic XT 150/Dionic XT 90)",
+   "Mount": "V-Mount",
+   "Price": "$580.00"
+  },
+  {
+   "SKU": "14-0624",
+   "WattHr": "156 Wh",
+   "Title": "Anton Bauer Digital Battery (Dionic XT 150/Dionic XT 90)",
+   "Mount": "Gold-Mount",
+   "Price": "$740.00"
+  },
+  {
+   "SKU": "14-0625",
+   "WattHr": "156 Wh",
+   "Title": "Anton Bauer Digital Battery (Dionic XT 150/Dionic XT 90)",
+   "Mount": "V-Mount",
+   "Price": "$740.00"
+  }
+ ]
+}
