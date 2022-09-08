@@ -28,7 +28,9 @@ node .
 ```
 You will have a file named **products.json** in your directory.
 
+/***
 ![Output Received](https://i.imgur.com/AcsQahp.png)
+*///
 
 If you want to see the refined json instead of ```node .``` use:
 ```
