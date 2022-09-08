@@ -42,9 +42,7 @@ Please let me know if you have any questions or need any other coding exercise y
 
 [hemantsarthak1@gmail.com](mailto:hemantsarthak1@gmail.com)
 
-Also Alex, I sincerely apologize for the delay in code submission, you gave me the exersice on Saturday 7 and I am submitting it on Thursday 13 when I said I would do it by Sunday 8. There was a minor medical emergency in my family due to which I was not able to submit it sooner, I apologize for it.
-
-Hope you understand,**I really think Koneksys is a great fit for me where I can work, learn & grow a lot so please hire me if possible. I would work hard to ensure Koneksys succeeds in any manner needed both as a team player or an individual entity as needed.**
+**I really think Koneksys is a great fit for me where I can work, learn & grow a lot so please hire me if possible. I would work hard to ensure Koneksys succeeds in any manner needed both as a team player or an individual entity as needed.**
 
 Have a great day!
 Thank You
